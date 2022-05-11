@@ -1,0 +1,54 @@
+.routes__wrapper {
+    padding: 60px 0;
+}
+
+.dark {
+    background-color: #1E1F26;
+    color: #babaca;
+    a {
+        color: #babaca;
+    }
+    select {
+        background-color: #494d57;
+        color: #babaca;
+    }
+    input {
+        background-color: #a1a2a7;
+        color: #15151b;
+    }
+    .nav_link {
+        text-decoration: none;
+        font-size: 26px;
+        color: blue;
+    }
+    .nav_link-active {
+        text-decoration: underline;
+        font-size: 26px;
+        color: black;
+    }
+}
+
+.light {
+    background-color: rgb(196, 220, 241);
+    color: #221d1d;
+    a {
+        color: #221d1d;
+    }
+    select {
+        background-color: #6b6d83;
+        color: #fff;
+    }
+    .nav_link {
+        text-decoration: none;
+        font-size: 26px;
+        color: blue;
+    }
+    .nav_link-active {
+        text-decoration: underline;
+        font-size: 26px;
+        color: black;
+    }
+    .btn {
+        background-color: #6b6d83;
+    }
+}
